@@ -1,3 +1,6 @@
+# Data: keep only placeholder
 data/*
 !data/.gitkeep
+
+# Jupyter
 .ipynb_checkpoints/
